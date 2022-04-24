@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Graph Convolutional Networks
+- 🔭 I’m currently working on Graph Neural Networks
 - 🌱 I’m currently learning Electronics and Instrumentation at BITS Pilani, Hyderabad Campus
 - 📫 How to reach me: adityasoni25@gmail.com
 
